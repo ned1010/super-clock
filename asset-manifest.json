@@ -1,11 +1,10 @@
 {
-  "main.js": "/super-clock/static/js/main.e8fa6641.chunk.js",
-  "main.js.map": "/super-clock/static/js/main.e8fa6641.chunk.js.map",
-  "static/js/1.a3c0bc64.chunk.js": "/super-clock/static/js/1.a3c0bc64.chunk.js",
-  "static/js/1.a3c0bc64.chunk.js.map": "/super-clock/static/js/1.a3c0bc64.chunk.js.map",
-  "runtime~main.js": "/super-clock/static/js/runtime~main.b7f319e9.js",
-  "runtime~main.js.map": "/super-clock/static/js/runtime~main.b7f319e9.js.map",
-  "index.html": "/super-clock/index.html",
-  "precache-manifest.686ad71a5d69dd3a6d1379bddcab133f.js": "/super-clock/precache-manifest.686ad71a5d69dd3a6d1379bddcab133f.js",
-  "service-worker.js": "/super-clock/service-worker.js"
+  "files": {
+    "main.js": "/super-clock/static/js/main.3891a83a.js",
+    "index.html": "/super-clock/index.html",
+    "main.3891a83a.js.map": "/super-clock/static/js/main.3891a83a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3891a83a.js"
+  ]
 }
